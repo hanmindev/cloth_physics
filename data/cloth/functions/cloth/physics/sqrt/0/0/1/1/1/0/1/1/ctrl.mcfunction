@@ -1,0 +1,2 @@
+execute if score t1 calculations matches 279..280 run function cloth:cloth/physics/sqrt/0/0/1/1/1/0/1/1/0/ctrl
+execute if score t1 calculations matches 281..282 run function cloth:cloth/physics/sqrt/0/0/1/1/1/0/1/1/1/ctrl

@@ -1,0 +1,1 @@
+execute as @e[type=area_effect_cloud,tag=clothpoint] run function cloth:setup/render/copyvalues

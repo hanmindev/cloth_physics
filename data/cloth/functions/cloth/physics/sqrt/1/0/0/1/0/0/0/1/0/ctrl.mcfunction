@@ -1,0 +1,2 @@
+execute if score t1 calculations matches 681..682 run function cloth:cloth/physics/sqrt/1/0/0/1/0/0/0/1/0/0/ctrl
+execute if score t1 calculations matches 683 run scoreboard players set result calculations 261

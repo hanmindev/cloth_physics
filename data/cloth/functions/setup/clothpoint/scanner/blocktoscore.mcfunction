@@ -1,0 +1,16 @@
+execute if block ~ ~ ~ white_wool run scoreboard players set current blockid 1
+execute if block ~ ~ ~ orange_wool run scoreboard players set current blockid 2
+execute if block ~ ~ ~ magenta_wool run scoreboard players set current blockid 3
+execute if block ~ ~ ~ light_blue_wool run scoreboard players set current blockid 4
+execute if block ~ ~ ~ yellow_wool run scoreboard players set current blockid 5
+execute if block ~ ~ ~ lime_wool run scoreboard players set current blockid 6
+execute if block ~ ~ ~ pink_wool run scoreboard players set current blockid 7
+execute if block ~ ~ ~ gray_wool run scoreboard players set current blockid 8
+execute if block ~ ~ ~ light_gray_wool run scoreboard players set current blockid 9
+execute if block ~ ~ ~ cyan_wool run scoreboard players set current blockid 10
+execute if block ~ ~ ~ purple_wool run scoreboard players set current blockid 11
+execute if block ~ ~ ~ blue_wool run scoreboard players set current blockid 12
+execute if block ~ ~ ~ brown_wool run scoreboard players set current blockid 13
+execute if block ~ ~ ~ green_wool run scoreboard players set current blockid 14
+execute if block ~ ~ ~ red_wool run scoreboard players set current blockid 15
+execute if block ~ ~ ~ black_wool run scoreboard players set current blockid 16
